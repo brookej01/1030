@@ -1,4 +1,4 @@
-# Simple Calculator
+# Simple Calculator module
 
 # Function to add
 def add_numbers(first_number, second_number):
